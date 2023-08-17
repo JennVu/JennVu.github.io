@@ -36,10 +36,23 @@ behaviors.
 [See my work here](https://console.cloud.google.com/bigquery?sq=886752833240:2b280ea73abe47ce9abc0bf9be5eb412&project=youtube-project-394302&ws=!1m4!1m3!8m2!1s886752833240!2s2b280ea73abe47ce9abc0bf9be5eb412)
 
 ## Work Experience
-FPT Online - VnEpxress – Hanoi, Vietnam [Nov, 2019 – Feb,2023]
+FPT Online - VnEpxress – Hanoi, Vietnam [Nov 2019 – Feb 2023]
 
 [MARKETING STRATEGY CONSULTANT]
 - Spearheaded business growth by leveraging data-backed insights and collaborating with cross-functional teams.
 - Crafted innovative marketing campaigns, surpassing targets and achieving exceptional results for internal and external projects.
 - Successfully developed resource-efficient technical plans for partnerships with ticket distributors, optimizing processes through data-driven insights.
 - Achieved a 400% increase in ticket sales for VnExpress Marathon Ha Long by analyzing data and consumer behavior.
+## Education
+**Full-time education**
+
+National Economics University – Hanoi, Vietnam
+
+Bachelor's Degree in Marketing – Specialization: Marketing Communication- GPA: 3.26/4
+
+IELTS: 7.5 dated July 2023
+
+**Data Analytics Courses**
+
+Datacamp.com 16 courses including SQL, Power BI, Python, and Machine Learning
+[See my certificates here](https://drive.google.com/drive/folders/1QnfDKsw97YlSYwgNIhzFUYm1eYda4s05)
