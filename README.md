@@ -42,6 +42,7 @@ FPT Online - VnEpxress – Hanoi, Vietnam [Nov 2019 – Feb 2023]
 - Crafted innovative marketing campaigns, surpassing targets and achieving exceptional results for internal and external projects.
 - Successfully developed resource-efficient technical plans for partnerships with ticket distributors, optimizing processes through data-driven insights.
 - Achieved a 400% increase in ticket sales for VnExpress Marathon Ha Long by analyzing data and consumer behavior.
+
 ## Education
 **Full-time education**
 
