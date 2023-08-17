@@ -1,5 +1,4 @@
 # JennVu - Data Analyst
-JennVu.github.io/portfolio
 
 #### Technical Skills:
 
