@@ -24,6 +24,16 @@ sales efforts, categorize customer issues based on demographic groups, analyze c
 patterns and preferences.
 
 ![Final Dashboard looks like this](assess/K14-+Vu+Ngoc+Huyen+-+Project+3.jpg)
+### Customer Segmentation using RFM Model Personal project
+• Utilized Pandas (Python) to perform RFM-based customer segmentation
+• Discovered the relation between given factors to find insights and explanations by each group’s buying
+behaviors.
+• Used Matplotlib and Seaborn to visualize data and make presentations to non-tech stakeholders.
+[See my work here](https://github.com/JennVu/Python.CustomerSegmentation/tree/main)
+### Phone Market Personal project
+• Queried data to answer a series of questions for stakeholders about the phone market by using SQL
+(Google Bigquery)
+[See my work here](https://console.cloud.google.com/bigquery?sq=886752833240:2b280ea73abe47ce9abc0bf9be5eb412&project=youtube-project-394302&ws=!1m4!1m3!8m2!1s886752833240!2s2b280ea73abe47ce9abc0bf9be5eb412)
 
 ## Work Experience
 FPT Online - VnEpxress – Hanoi, Vietnam [Nov, 2019 – Feb,2023]
