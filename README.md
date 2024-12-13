@@ -18,6 +18,7 @@
   #### Project: Bad debt collection prediction:
   **Target:**
   A model that prioritizes debt collection actions by predicting each customer's likelihood of repayment.
+  
   **Framework:**
   Machine learning (LightGBM) was used to analyze customer data, and a Markov decision process was used to determine the optimal action strategy.
 
