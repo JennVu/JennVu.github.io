@@ -10,6 +10,7 @@
 
 ## Work Experience
 **Wooribank Vietnam - Hanoi, Vietnam [Sep 2023 – Now]**
+
 [System and Data Analysis Associate - Credit Planning Division]
 - Generated comprehensive reports on Basel, credit management, collateral management, and provision, ensuring adherence to SBV and CIC reporting standards.
 - Spearheaded the automation of reports and periodic tasks, improving efficiency and data accuracy.
@@ -23,6 +24,7 @@
   Machine learning (LightGBM) was used to analyze customer data, and a Markov decision process was used to determine the optimal action strategy.
 
 **FPT Online - VnEpxress – Hanoi, Vietnam [Nov 2019 – Feb 2023]**
+
 [Marketing Strategy Consultant]
 - Spearheaded business growth by leveraging data-backed insights and collaborating with cross-functional teams.
 - Crafted innovative marketing campaigns, surpassing targets and achieving exceptional results for internal and external projects.
