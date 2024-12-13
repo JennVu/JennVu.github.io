@@ -4,10 +4,9 @@
 
 • Data Analytics: Python (Pandas, Matplotlib, Seaborn, Scikit-learn), SQL (Google Bigquery)
 
-• Data Visualization by Power BI (DAX, data modeling)
+• Data Visualization by Python (Plotly and DASH), Power BI (DAX, data modeling)
 
-• Machine Learning: Familiarity with artificial intelligence and machine learning techniques for
-business analytics
+• Machine Learning: LightGBM, Scikit-Learn
 
 ## Projects
 
